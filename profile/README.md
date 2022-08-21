@@ -1,4 +1,4 @@
 ### Welcome to FittaClub!
 ## Members
-[Alyona Ptushskaya](github.com/ptushskaya)   
-[Leenzery](github.com/leenzerdev)
+[Alyona Ptushskaya](https://github.com/ptushskaya)   
+[Leenzery](https://github.com/leenzerdev)
